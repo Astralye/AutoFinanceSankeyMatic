@@ -25,7 +25,7 @@ Unlikely, but perhaps bug fixes if I encounter while using this myself.
 ![image](DataPoints.png)
 Example data stored on the 'Nodes' sheet
 
-![image](theme.png)
+![image](sankeyImage.png)
 Pasted data produced from the program.
 
 Time to complete: ~5 hours
